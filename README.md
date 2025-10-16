@@ -12,4 +12,4 @@ Visualisation et communication: création de graphiques à barres pour comparer 
 
 Recommandations: créer des forfaits week end pour encourager les utilisateurs occasionnels pendant leurs périodes d'activité, mettre en évidence les avantages de l'abonnemment pour les trajets longs et non seulement pour les trajets quotidens courts
 
----Ce projet valide ma capacité à non seulement extraire et nettoyer des données volumineuses, mais surtout à transformer ces chiffres en insights opérationnels---
+-Ce projet valide ma capacité à non seulement extraire et nettoyer des données volumineuses, mais surtout à transformer ces chiffres en insights opérationnels.
